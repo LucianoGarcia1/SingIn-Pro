@@ -180,7 +180,7 @@ i:hover{
 
     .single-content{
         width: 100%;
-        padding: 100px 0;
+        padding: 100px 30px;
     }
 
     .singin{
@@ -192,4 +192,10 @@ i:hover{
     input{
         width: 84%;
     }
+    
+    .single-content{
+        border-radius: 50%;
+    }
+    
+    
 }
