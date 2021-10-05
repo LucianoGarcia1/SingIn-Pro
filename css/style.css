@@ -194,7 +194,7 @@ i:hover{
     }
     
     .single-content{
-        border-radius: 50%;
+        border-bottom-right-radius: 50%;
     }
     
     
